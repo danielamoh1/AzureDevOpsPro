@@ -1,0 +1,25 @@
+AzureDevOpsPro/
+├── .azure-pipelines/
+│   ├── azure-pipelines-ci.yml
+│   ├── azure-pipelines-pr.yml
+│   └── azure-pipelines-cd.yml
+├── src/
+│   ├── app/
+│   │   └── main.py
+│   └── lib/
+│       └── utils.py
+├── tests/
+│   ├── unit/
+│   │   └── test_main.py
+│   └── integration/
+│       └── test_integration.py
+├── docs/
+│   ├── architecture/
+│   │   └── architecture-diagram.png
+│   └── requirements/
+│       └── requirements.md
+├── scripts/
+│   └── deploy.sh
+├── .gitignore
+├── README.md
+├── requirements.txt
