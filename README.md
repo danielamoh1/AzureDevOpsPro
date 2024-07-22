@@ -1,7 +1,5 @@
 # AzureDevOpsPro
 
-# AzureDevOpsPro
-
 Welcome to the AzureDevOpsPro repository. This project demonstrates a highly complex CI/CD pipeline setup using Azure DevOps and GitHub.
 
 ![azure-devops-ci-cd-architecture](https://github.com/user-attachments/assets/2f672f3c-c696-4041-a9b5-187e3a3e7ae4)
