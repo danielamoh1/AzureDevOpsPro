@@ -14,8 +14,8 @@ AzureDevOpsPro/
 │   └── integration/
 │       └── test_integration.py
 ├── docs/
-│   ├── architecture/
-│   │   └── architecture-diagram.png
+│   |
+│   │   
 │   └── requirements/
 │       └── requirements.md
 ├── scripts/
